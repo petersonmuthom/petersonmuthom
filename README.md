@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="center">Hello there, I'm Peterson 👋🏾</h1>
-<h3 align="center"> Full-Stack Developer | Mobile App Developer | Historian🖤</h3>
+<h1 align="left">Hello there, I'm Peterson 👋🏾</h1>
+<h3 align="left"> Full-Stack Developer | Mobile App Developer | Historian🖤</h3>
 
 ---
 
