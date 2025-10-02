@@ -1,6 +1,6 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="left">Hello there👋🏾, I'm Peterson</h1>
+<h1 align="left">Hello there👋🏾, I am Peterson</h1>
 <h3 align="left"> A Full-Stack Developer | Mobile App Developer | Historian | 🖤</h3>
 
 
