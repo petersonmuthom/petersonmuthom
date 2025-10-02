@@ -5,7 +5,7 @@
 
 
 
-### 👨🏾‍💻 About Me
+### About Me
 I’m Peterson Muthomi, a Full-Stack Developer, a Mobile App Developer and a History student at Maasai Mara University.  
 I’m passionate about building sleek, scalable apps while exploring the intersection of technology, culture, and education.  
 Currently leveling up in **Python, Flutter, React, and Databases**, and always open to collaborations.  
