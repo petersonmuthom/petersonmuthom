@@ -8,14 +8,14 @@
 
 ## About Me
 
+
 I’m a developer who loves building things that *feel right*; smooth interfaces, meaningful logic, and digital experiences that leave an impression.  
 
-I spend most of my time creating responsive websites and cross-platform apps under **Peterson Muthomi Softwares **, experimenting with design, functionality, and a bit of strategy. I like to think of code as both a craft and a language; one that connects ideas to real solutions.  
+I spend most of my time creating responsive websites and cross-platform apps under **Peterson Muthomi Softwares**, experimenting with design, functionality, and a bit of strategy. I like to think of code as both a craft and a language; one that connects ideas to real solutions.  
 
-When I’m not in dev mode, I’m probably diving into history (I’m studying it at **Maasai Mara University**), sketching new app concepts, or getting lost in music from **Hozier,Imagine Dragons** or **The Lumineers**.  
+When I’m not in dev mode, I’m probably diving into history (I’m studying it at **Maasai Mara University**), sketching new app concepts, or getting lost in music from **Hozier, Imagine Dragons** or **The Lumineers**.  
 
 I’m all about building with intention; clean, minimal, and quietly powerful.  
-
 *Always learning. Always shipping.*
 
 
@@ -60,7 +60,7 @@ class Peterson:
         self.university = "Maasai Mara University"
         
         self.languages = ["Python", "JavaScript", "Dart"]
-        self.frameworks = ["Django", "Flutter", "React"]
+        self.frameworks = ["Django", "Flutter",]
         self.databases = ["MySQL"]
         self.tools = ["Git", "GitHub", "VS Code"]
 
