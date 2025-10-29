@@ -1,12 +1,13 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="left">Hello there👋🏾, I am Peterson.</h1>
-<h3 align="left"> Full-Stack Developer | Mobile App Developer | Historian</h3>
+# Hello there👋🏾, I am Peterson.
+
+## Full-Stack Developer | Mobile App Developer | Historian
 
 
 
 
-## About Me
+### About Me
 
 
 I’m a developer who loves building things that *feel right*; smooth interfaces, meaningful logic, and digital experiences that leave an impression.  
