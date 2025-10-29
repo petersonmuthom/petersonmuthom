@@ -5,10 +5,16 @@
 
 
 
-### About Me
-I’m Peterson Muthomi, a Full-Stack Developer, a Mobile App Developer and a History student at Maasai Mara University.  
-I’m passionate about building sleek, scalable websites & apps while exploring the intersection of technology, culture, and education.  
-Currently leveling up in **Flutter**, and always open to collaborations.  
+
+I’m a full-stack web and app developer who loves turning ideas into clean, functional, and sleek digital experiences.
+
+I work with HTML, CSS, JavaScript, Dart (Flutter), Python (Django), Node.js, MySQL and I’m always learning something new.
+
+Right now, I’m building projects under my brand Peterson Muthomi Softwares, mixing tech, creativity, and a bit of dark-aesthetic energy.
+
+I also study History at Maasai Mara University, which keeps me curious about how people and technology evolve together.
+
+When I’m not coding, I’m probably lost in music — think Coldplay, Hozier, or Imagine Dragons.
 ```python
 class Peterson:
     def __init__(self):
