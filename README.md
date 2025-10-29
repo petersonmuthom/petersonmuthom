@@ -10,7 +10,7 @@
 ## About Me
 
 
-I’m a developer who loves building things that *feel right*; smooth interfaces, meaningful logic, and digital experiences that leave an impression.  
+I’m a developer who loves building things that *feel right* ; smooth interfaces, meaningful logic, and digital experiences that leave an impression.  
 
 I spend most of my time creating responsive websites and cross-platform apps under **Peterson Muthomi Softwares**, experimenting with design, functionality, and a bit of strategy. I like to think of code as both a craft and a language; one that connects ideas to real solutions.  
 
